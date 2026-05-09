@@ -1,0 +1,28 @@
+@font-face {
+    font-family: 'ShrekFont';
+    src: url('../shrek.TTF'); 
+}
+
+h1, h2 {
+    font-family: 'ShrekFont', cursive;
+    font-size: 3rem;
+    font-weight: normal;
+}
+
+/* Keeps your list clean so no weird symbols appear there */
+li {
+    font-family: Arial, sans-serif;
+    font-size: 1.1rem;
+    margin-bottom: 10px;
+}
+
+#THISISSHREK {
+    background-color: burlywood; 
+    color: black;
+    padding: 10px;
+}
+
+#MY-LIST {
+    background-color: lightgreen;
+    padding: 20px;
+}
