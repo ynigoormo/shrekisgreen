@@ -1,6 +1,6 @@
 @font-face {
     font-family: 'ShrekFont';
-    src: url('../shrek.TTF'); 
+    src: url('shrek.TTF'); 
 }
 
 h1, h2 {
